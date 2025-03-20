@@ -14,5 +14,6 @@ TGI_DGI_NGI.m
 Implements Ghost Imaging using traditional algorithms.
 
 Usage Instructions
+
 Run RandomMatrices.m first to generate and save random speckle patterns.
 Execute TGI_DGI_NGI.m to apply GI algorithms using the generated patterns.
